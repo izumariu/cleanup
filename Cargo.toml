@@ -1,0 +1,7 @@
+[package]
+name = "cleanup"
+version = "0.1.0"
+authors = ["izumariu"]
+
+[dependencies]
+clap = "2.32"
